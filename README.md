@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shitalrikibe
 - 👀 I’m interested in web-Development.
-- 🌱 I’m currently learning ReactJS and Adv java
+- 🌱 I’m currently learning ReactJS and Adv java, Apex, Programin and LWC, Aura Component.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  ShitalRikibe
 
