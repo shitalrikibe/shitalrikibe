@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shitalrikibe
-- 👀 I’m interested in web-Development.
-- 🌱 I’m currently learning ReactJS and Adv java, Apex, Programin and LWC, Aura Component.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Salesforce-Development.
+- 🌱 I’m currently learning Apex, Lightning web Component, Aura Component, ReactJS and Adv java.
 - 📫 How to reach me ...  ShitalRikibe
 
 <!---
